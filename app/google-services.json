@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269395293761",
+    "project_id": "dbalimentos-9e31c",
+    "storage_bucket": "dbalimentos-9e31c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269395293761:android:238cc966418bf83454b8c0",
+        "android_client_info": {
+          "package_name": "com.paquete.alimentos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKvoAksVQx9aQeUzBrYcDesjWnuNgU5Ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
